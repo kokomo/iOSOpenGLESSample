@@ -1,0 +1,9 @@
+기본이 되는 템플릿 프로젝트
+xcode의 템플릿으로 등록한건 아니고 cnp로 쓸 수 있는 가장 기본이 되는 템플릿 소스. 
+
+xcode의 기본 OpenGL template보다 간단한 구조라 함. 
+
+이후 /OpenGLESxx 들은 모두 이 프로젝트 폴더의 복사본. 
+
+template.pdf : template source 만들기 가이드. 
+template.zip : original resource.
